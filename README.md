@@ -1,16 +1,19 @@
-## Hi there 👋
+💼 Experiência Profissional
 
-<!--
-**nfoj/nfoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estágio em Design Gráfico (6 Meses);
+- Auxiliar de Design Digital (1 Ano);
+- Analista Acâdemico (Atualmente).
+<br>
 
-Here are some ideas to get you started:
+🎓 Formação Acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graduado em Design Gráfico – Instituto Federal da Paraíba (IFPB) - Campus Cabedelo;
+- Graduando em Análise e Desenvolvimento de Sistemas – Universidade Descomplica.
+<br>
+
+📚 Estudos
+
+- Estudos em Rust;
+- Estudos em Linux;
+
+<br>
