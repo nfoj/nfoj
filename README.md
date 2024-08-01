@@ -15,5 +15,6 @@
 
 - Estudos em Rust;
 - Estudos em Linux;
+- Desenvolvimento de Jogos (Godot4)
 
 <br>
