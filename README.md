@@ -1,7 +1,7 @@
 🎓 Formação Acadêmica
 
 - Graduado em Design Gráfico – Instituto Federal da Paraíba (IFPB) - Campus Cabedelo;
-- Graduando em Análise e Desenvolvimento de Sistemas – Universidade Descomplica.
+- Graduando em Análise e Desenvolvimento de Sistemas – Universidade UniAmerica Descomplica.
 <br>
 
 💼 Experiência Profissional
@@ -13,7 +13,9 @@
 
 📚 Estudos
 
-- Estudos em Rust;
-- Estudos em Linux;
-- Desenvolvimento de Jogos.
+- Estudos do Sistema Linux;
+- Desenovlimento de Scrips em Python e Bash;
+- Desenvolvimento de Aplicações em Rust;
+- Desenvolvimento de Jogos com Bevy.
+- Resolução de Desafios do HackerRank;
 <br>
