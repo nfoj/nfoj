@@ -14,7 +14,7 @@
 📚 Estudos
 
 - Estudos do Sistema Linux;
-- Desenovlimento de Scrips em Python e Bash;
+- Desenvolvimento de Scrips em Python e Bash;
 - Desenvolvimento de Aplicações em Rust;
 - Desenvolvimento de Jogos com Bevy.
 - Resolução de Desafios do HackerRank;
